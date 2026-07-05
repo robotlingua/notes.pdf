@@ -1,4 +1,11 @@
-# \\Online market for AI models
+# Online market for AI models
+
+## Table of Contents
+
+- [Abstract](#abstract)
+- [Foundation](#foundation)
+- [Models for sale](#models-for-sale)
+- [Interactions](#interactions)
 
 ## Abstract
 
@@ -31,7 +38,7 @@ incorrect information?
 
 To all those questions, there is one possible answer, enhance the A.I agent(s) via specialized models.
 
-## A.I models for free or for sale!
+## Models for sale
 
 Specialized models are models trained in depth for a specific purpose.
 Those are models trained for example to detect scientific inacuracies based on our current knowledge.
@@ -125,5 +132,3 @@ Of course, in this model, humans can still interact with the internet / world wi
 however this type of interaction will no longer be the primary one since we could see that they would prefer
 spend time in the real life doing real thing or instead of doing all the chores they use to do that is now done by
 their A.I agents.
-
-
