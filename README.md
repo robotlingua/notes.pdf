@@ -12,5 +12,5 @@
 
 | Note     | Short description |
 |----------|-------------------|
-|[Online market for A.I models](artificial_intelligence/online-market-for-ai-models.md)|Enhancing the capabilities of AI agents through custom models sold online.|
+|[Online market for A.I models]([artificial_intelligence/online-market-for-ai-models.md](https://github.com/boristheprogrammer/notes.pdf/blob/main/artificial_intelligence/online-market-for-ai-models.md))|Enhancing the capabilities of AI agents through custom models sold online.|
 
