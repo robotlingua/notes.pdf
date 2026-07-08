@@ -5,6 +5,7 @@
 - [About](#about)
 - [Categories](#categories)
   - [Artificial Intelligence](#artificial-intelligence)
+  - [Culture](#culture)
   - [Infrastructure](#infrastructure)
   - [Robotics](#robotics)
 
@@ -25,6 +26,13 @@
 | Note     | Short description |
 |----------|-------------------|
 |[Online market for A.I models](https://github.com/boristheprogrammer/notes.pdf/blob/main/artificial_intelligence/online-market-for-ai-models.md)|Enhancing the capabilities of AI agents through custom models sold online.|
+
+### Culture
+
+| Note     | Short description |
+|----------|-------------------|
+|[Trying to understand the Japanese culture](https://github.com/boristheprogrammer/notes.pdf/blob/main/culture/context.md)|My current understanding of the Japanese culture.|
+
 
 ### Infrastructure
 
