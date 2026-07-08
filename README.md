@@ -18,6 +18,7 @@
 | Category | Short description |
 |----------|-------------------|
 |Artificial intelligence|Everything related to A.I and its applications.|
+|Culture|Things related to the different culture I have encountered in my life.|
 |Infrastructure|Modern infrastructure for a better future.|
 |Robotics|Robots to automate manual labor.|
 
