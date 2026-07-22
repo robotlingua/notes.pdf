@@ -46,3 +46,4 @@
 | Note     | Short description |
 |----------|-------------------|
 |[Why we need more bots?](https://github.com/boristheprogrammer/notes.pdf/blob/main/robotics/more-robots.md)|A case for more robots.|
+|[Form for purpose](https://github.com/boristheprogrammer/notes.pdf/blob/main/robotics/form-for-functions.md)|Discussion on robots form.|
